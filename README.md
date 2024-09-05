@@ -1,1 +1,1 @@
-This folder is related to EDA*EXploratory data analytics)
+This folder is related to EDA*Exploratory data analytics)
